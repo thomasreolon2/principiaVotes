@@ -10,7 +10,7 @@ O backend está rodando na porta **5000**.
 
 #### Passos para Configuração:
 
-1. **Crie um arquivo `.env`** na raiz do projeto com as seguintes credenciais do MongoDB:
+1. **Crie um arquivo `.env`** na raiz do projeto com as suas credenciais do MongoDB:
 
    ```plaintext
    DB_PASSWORD=principia
