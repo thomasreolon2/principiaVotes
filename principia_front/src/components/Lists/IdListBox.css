@@ -1,0 +1,30 @@
+/* IdListBox.css */
+.id-list-box {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .id-list-title {
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-bottom: 16px;
+    text-align: center;
+  }
+  
+  .id-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  
+  .id-item {
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
