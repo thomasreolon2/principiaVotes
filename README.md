@@ -43,4 +43,4 @@ npm start
 Node.js
 Express
 MongoDB
-React (ou a tecnologia que você estiver usando no frontend)
+React 
